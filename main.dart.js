@@ -40420,7 +40420,7 @@ if(s.length===0)n.a5c(this.b)
 else{if(n.e)A.iJ("https://makerselectronics.com/?term=&s="+A.lI(s,r,q)+"&post_type=product&taxonomy=product_cat")
 if(n.f){s=m.a.a
 A.iJ("https://free-electronic.com/?s="+A.lI(s,r,q)+p)}if(n.r){s=m.a.a
-A.iJ("https://ram-e-shop.com/?s="+A.lI(s,r,q)+p)}if(n.w){s=m.a.a
+A.iJ("https://www.ram-e-shop.com/shop?order=list_price+asc&search="+A.lI(s,r,q)+p)}if(n.w){s=m.a.a
 A.iJ("https://uge-one.com/?product_cat=&s="+A.lI(s,r,q)+o)}if(n.x){s=m.a.a
 A.iJ("https://lampatronics.com/?s="+A.lI(s,r,q)+"&post_type=product&dgwt_wcas=1")}if(n.y){s=m.a.a
 A.iJ("https://electra.store/?s="+A.lI(s,r,q)+o)}if(n.z){n=m.a.a
